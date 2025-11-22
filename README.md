@@ -26,3 +26,16 @@ Contoh: `https://username.github.io/nama-repo`
 6. GitHub Pages akan memproses dan memberikan URL halaman.
 
 ## Struktur File
+/
+├── index.html
+└── README.md
+
+## Kustomisasi
+Anda dapat memodifikasi:
+- Teks dan nama pada bagian hero.
+- Jadwal dan lokasi acara.
+- Menambahkan foto pada galeri.
+- Menambahkan form RSVP atau integrasi backend bila diperlukan.
+
+## Lisensi
+Proyek ini bebas digunakan dan dimodifikasi.
